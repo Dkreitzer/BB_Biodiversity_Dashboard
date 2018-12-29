@@ -26,7 +26,7 @@ Base = automap_base()
 # reflect the tables
 Base.prepare(db.engine, reflect=True)
 
-# Save references to each table
+# Save references to each table - there are two tables (sample_metadata and samples)
 Samples_Metadata = Base.classes.sample_metadata
 Samples = Base.classes.samples
 
