@@ -6,7 +6,7 @@ Build an interactive dashboard to explore the Belly Button Biodiversity DataSet
 
 Follow this link to to view the dashboard live on Heroku: https://nesbit-bellybutton-dashboard.herokuapp.com/
 
-![appScreenShot](img/BellyButtonHerokuLiveScreenshot.png)
+![appScreenShot](img/BellyButtonDashboard_pic_updated312019.png)
 
 ## About the Data
 The Belly Button Biodiversity Dataset was created in 2011 as part of an investigation looking at the microbes inhabiting our navels.
